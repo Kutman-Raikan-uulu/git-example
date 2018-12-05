@@ -1,0 +1,28 @@
+.container {
+    overflow: hidden;
+    width: 70%;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.4);
+}
+.b-address {
+    margin-left: calc(100% - 280px);
+    width: 400px;
+    height: 80px;
+}
+.b-address a {
+    text-decoration: none;
+    color: rgb(45, 45, 148);
+    font-size: 18px;
+}
+.center {
+    text-align: center;
+}
+.bat{
+    display: inline;
+}
+.button {
+    width: 12%;
+    height: 35px;
+}
